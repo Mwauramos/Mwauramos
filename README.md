@@ -1,11 +1,19 @@
-# 👋 Hi, I’m @Mwauramos
+# Hi there, I’m Amos Mwaura (@Mwauramos)
 
-- 👀 I’m interested in leveraging data to improve healthcare outcomes.
-- 🌱 I’m currently honing my skills in data science.
-- 💞️ I’m looking to collaborate on innovative healthcare and biotechnology research projects.
-- 📫 How to reach me: mwauramos.n@gmail.com
-- ⚡ Fun fact: 🧠 Did you know that the healthcare industry generates approximately 30% of the world's data? From electronic health records (EHRs) to medical imaging, wearable devices, and genomic sequencing, the vast amount of data produced is revolutionizing how we understand and treat diseases. Leveraging data science in healthcare not only enhances patient outcomes but also drives innovations like personalized medicine, predictive analytics, and AI-driven diagnostics. 🚀
-<!---
-Mwauramos/Mwauramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a biochemistry graduate and data science enthusiast passionate about using data to improve public health and solve complex challenges in healthcare and biotechnology.
+
+### What I’m Working On:
+- Applying **epidemiological modeling** and **biostatistics** to infectious disease datasets.
+- Building **interactive dashboards** with R Shiny for health data insights.
+- Exploring **machine learning applications** in clinical and population health.
+
+### What I’m Looking For:
+- **Collaborations** on health data science and public health research projects.
+- Opportunities to contribute to **open-source tools** in epidemiology or healthcare analytics.
+
+### How to Reach Me:
+- **Email**: mwauramos.n@gmail.com  
+
+### Fun Fact:
+Did you know healthcare accounts for nearly **30% of the world’s data**? From electronic health records and genomic sequencing to wearable devices and medical imaging, this data is transforming how we understand, treat, and prevent disease. **Data science is the future of personalized medicine and predictive healthcare.**
+
